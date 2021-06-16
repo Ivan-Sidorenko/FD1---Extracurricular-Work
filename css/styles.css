@@ -175,6 +175,21 @@ header .container .github_link:hover{
     background-size: contain;
 }
 
+.slide:nth-of-type(8){
+    background: url(../img/14_guessPicture.jpg) no-repeat center center;
+    background-size: contain;
+}
+
+.slide:nth-of-type(9){
+    background: url(../img/15_dragAndDrop.jpg) no-repeat center center;
+    background-size: contain;
+}
+
+.slide:nth-of-type(10){
+    background: url(../img/16_battleShip.jpg) no-repeat center center;
+    background-size: contain;
+}
+
 .background{
     width: 600px;
     height: 370px;
@@ -252,6 +267,21 @@ header .container .github_link:hover{
 .content .container .site .wrapper .img_eight{
     height: 100%;
     background: url(../img/13_layuotFigma_using_grid.jpg);
+}
+
+.content .container .site .wrapper .img_nine{
+    height: 100%;
+    background: url(../img/14_guessPicture.jpg);
+}
+
+.content .container .site .wrapper .img_ten{
+    height: 100%;
+    background: url(../img/15_dragAndDrop.jpg);
+}
+
+.content .container .site .wrapper .img_eleven{
+    height: 100%;
+    background: url(../img/16_battleShip.jpg);
 }
 
 .content .container .site .wrapper .img_round{
