@@ -284,6 +284,11 @@ header .container .github_link:hover{
     background: url(../img/16_battleShip.jpg);
 }
 
+.content .container .site .wrapper .img_twelve{
+    height: 100%;
+    background: url(../img/17_filterCategory.jpg);
+}
+
 .content .container .site .wrapper .img_round{
     background-position: center center;
     background-repeat: no-repeat ;
